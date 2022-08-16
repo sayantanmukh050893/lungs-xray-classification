@@ -11,8 +11,8 @@ matplotlib>=1.4.3
 pandas>=0.19
 imbalanced-learn==0.6.2
 pickle5 ==0.0.9
-tensorflow==2.9.1
+tensorflow
 Pillow==6.2.0
-opencv-contrib-python-headless==4.6.0.66
-keras==2.3.1
+opencv-contrib-python-headless
+keras
 streamlit==1.8.1
