@@ -12,7 +12,7 @@ pandas>=0.19
 imbalanced-learn==0.6.2
 pickle5 ==0.0.9
 tensorflow
-Pillow==6.2.0
+Pillow
 opencv-contrib-python-headless
 keras
 streamlit==1.8.1
